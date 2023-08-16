@@ -1,5 +1,5 @@
 {
-    "data": [
+    "users": [
         {
             "id": 1,
             "firstName": "Peter",
@@ -50,8 +50,5 @@
             "firstName": "Emily",
             "lastName": "Mackenzie"
         }
-    ],
-    "offset": 0,
-    "limit": 10,
-    "total": 25
+    ]
 }
