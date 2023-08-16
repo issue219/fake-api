@@ -1,64 +1,57 @@
 {
-    "users": [
+    "data": [
         {
             "id": 1,
-            "firstName": "Phuong",
-            "lastName": "Allison"
+            "firstName": "Peter",
+            "lastName": "Mackenzie"
         },
         {
             "id": 2,
-            "firstName": "Marie",
-            "lastName": "Collinsworth"
+            "firstName": "Cindy",
+            "lastName": "Zhang"
         },
         {
             "id": 3,
-            "firstName": "Simon",
-            "lastName": "Uzzle"
+            "firstName": "Ted",
+            "lastName": "Smith"
         },
         {
             "id": 4,
-            "firstName": "Faustina",
-            "lastName": "Byfield"
+            "firstName": "Susan",
+            "lastName": "Fernbrook"
         },
         {
             "id": 5,
-            "firstName": "Robbie",
-            "lastName": "Perdue"
+            "firstName": "Emily",
+            "lastName": "Kim"
         },
         {
             "id": 6,
-            "firstName": "Lue",
-            "lastName": "Lover"
+            "firstName": "Peter",
+            "lastName": "Zhang"
         },
         {
             "id": 7,
-            "firstName": "Etha",
-            "lastName": "Nolley"
+            "firstName": "Cindy",
+            "lastName": "Smith"
         },
         {
             "id": 8,
-            "firstName": "Jeremiah",
-            "lastName": "Lindauer"
+            "firstName": "Ted",
+            "lastName": "Fernbrook"
         },
         {
             "id": 9,
-            "firstName": "Coreen",
-            "lastName": "Olin"
+            "firstName": "Susan",
+            "lastName": "Kim"
         },
         {
             "id": 10,
-            "firstName": "Josh",
-            "lastName": "Wayland"
-        },
-        {
-            "id": 11,
-            "firstName": "Soo",
-            "lastName": "Pullins"
-        },
-        {
-            "id": 12,
-            "firstName": "Shana",
-            "lastName": "Monty"
+            "firstName": "Emily",
+            "lastName": "Mackenzie"
         }
-    ]
+    ],
+    "offset": 0,
+    "limit": 10,
+    "total": 25
 }
