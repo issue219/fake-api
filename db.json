@@ -50,5 +50,8 @@
             "firstName": "Emily",
             "lastName": "Mackenzie"
         }
-    ]
+    ],
+    "offset": 0,
+    "limit": "1000",
+    "total": 12
 }
